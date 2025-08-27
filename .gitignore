@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Playwright test results
+playwright-report/
+test-results/
+
+
+# Coverage reports
+coverage/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+
+

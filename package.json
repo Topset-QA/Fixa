@@ -1,0 +1,24 @@
+{
+  "name": "fixa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bammy00/Fixa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bammy00/Fixa/issues"
+  },
+  "homepage": "https://github.com/Bammy00/Fixa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
