@@ -8,6 +8,7 @@ export class LoginPage {
   }
 
   async login(username: string, password: string) {
+    //login
     await this.page.fill('input[name="email"]', username);
     await this.page.fill('input[name="password"]', password);
     await this.page.click('button[type="submit"]');
